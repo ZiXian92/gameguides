@@ -15,3 +15,6 @@ Look for the folder whose name corresponds to the game you wish to look at. All 
 
 But if you are a cheapskate, free-to-play player like me, depending on your luck with the gacha, it may take you MONTHS of gacha draws and level/stat grinding to even be able to barely scrape by. Some of my guides are only possible because I was lucky to happen to have certain stuff which are crucial for the fight. Be patient, your day will come :)
 - - -
+
+## Links
+* [Final Fantasy Brave Exvius](FFBE/README.md)
