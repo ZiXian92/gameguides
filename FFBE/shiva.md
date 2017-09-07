@@ -1,4 +1,5 @@
 # Shiva Esper Fight Guide
+![Shiva](http://vignette2.wikia.nocookie.net/finalfantasy/images/2/21/FFBE_Shiva_Artwork_3.png/revision/latest?cb=20160310172459)
 
 ## 1-star
 Easy-peasy. Even a noob can clear it without too much trouble.
