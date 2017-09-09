@@ -18,6 +18,9 @@ Not exactly easy but still pretty easy given that my normal team only has 1 Seph
 * Warrior of Light(光の戦士)
 * Sephiroth(セフィロス)
 
+### My Fight
+[Phoenix 1-star fight](https://www.youtube.com/watch?v=qIqUkkHphbI)
+
 ## 2-star
 This one is a little harder than the 1-star fight as it is significantly tougher to bring down and also I did not look up on how to stop certain mechanisms to speed up the fight. The only preparation I did was to give Shilt 100% Fire elemental resistance, which I thought was enough but turned out not really enough. Nevertheless, I managed to clear it in about an hour...
 
@@ -49,3 +52,6 @@ On usual turns, it throws in a series of physical, Fire and Earth magic attacks.
 It also frequently alternates between 2 different types of Flammable Wing, each  of which reduces the team's Fire resistance by 70% and a different set of its own elemental resistance. When its Fire resistance is reduced, use Fire attacks on it for 3 turns to make it buff itself. Do this when it is near 40% HP so that casting the buff overrides the healing trigger. If your magic tank has enough Fire resistance even after debuff, there is no need to Dispel its buffs.  
 
 When it reduces its elemental resistances, make Onion Knight attack it with the element it is weak to to make it change its Flammable Wing, unless you are trying to stop its healing as described above.
+
+### My Fight
+[Phoenix 2-star fight](https://www.youtube.com/watch?v=-gfIxrGsLaU)
