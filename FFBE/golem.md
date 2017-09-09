@@ -54,9 +54,9 @@ Normal turns is just all single target attacks, with the occasional AoE Earth el
 At low health, the Quake-like attack becomes more frequent, trying to slow down your attack frequency. Slow and steady wins the race here if you cannot one-punch it.
 
 ### My Fight
-![My Video](https://www.youtube.com/edit?o=U&video_id=3CeCwca0mRs)
+[My Video](https://www.youtube.com/edit?o=U&video_id=3CeCwca0mRs)
 
 ## Credits
 Credits to
-![Rozalin's video](https://www.youtube.com/watch?v=5kLBkIbPy1k)
+[Rozalin's video](https://www.youtube.com/watch?v=5kLBkIbPy1k)
 for the inspiration on 0% damage clear.

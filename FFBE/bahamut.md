@@ -39,4 +39,4 @@ Bahamut is one of the first Espers that the producers decided to make a hard con
 Bahamut attacks on a 4-turn cycle. After each Megaflare, except the 20% HP threshold, there will be a 3-turn countdown to the next one. Each of these 3 turns, it will inflict AoE paralysis when the countdown number appears at the top. Also, it will cast a variety of AoE elemental magic attacks and basic attacks in each of these turns. Put up Hyper NulAll during/after the Megaflare turn.
 
 ### My Fight
-![My Video](https://www.youtube.com/edit?o=U&video_id=TA4NSkartII)
+[My Video](https://www.youtube.com/edit?o=U&video_id=TA4NSkartII)
