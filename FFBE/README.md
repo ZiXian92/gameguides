@@ -8,8 +8,12 @@ These guides are purely based on my experience in these boss fights. Main strate
 Note that I am playing theJapanese version of the game. So some of the guides may not be applicable to global version yet, but will be useful when they come out in the global version.
 
 ## Links(for your convenience)
+Espers
 * [Bahamut](bahamut.md)
 * [Golem](golem.md)
 * [Phoenix](phoenix.md)
 * [Ramuh](ramuh.md)
 * [Shiva](shiva.md)
+
+Events
+* [Mount Nibel Exploration Dungeon](mt-nibel.md)
