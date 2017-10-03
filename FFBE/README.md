@@ -10,6 +10,7 @@ Note that I am playing theJapanese version of the game. So some of the guides ma
 ## Links(for your convenience)
 Espers
 * [Bahamut](bahamut.md)
+* [Carbuncle](carbuncle.md)
 * [Golem](golem.md)
 * [Phoenix](phoenix.md)
 * [Ramuh](ramuh.md)
