@@ -19,3 +19,6 @@ Espers
 Events
 * [Mount Nibel Exploration Dungeon](mt-nibel.md)
 * [2nd Anniversary Event Hard Exploration Dungeon](2-anniv-hard.md)
+
+Trials
+* [Iron Giant](iron-giant.md)
