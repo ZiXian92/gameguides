@@ -16,6 +16,7 @@ Espers
 * [Ramuh](ramuh.md)
 * [Shiva](shiva.md)
 * [Tetra Sylpheed](tetrasylpheed.md)
+* [Titan](titan.md)
 
 Events
 * [Mount Nibel Exploration Dungeon](mt-nibel.md)
