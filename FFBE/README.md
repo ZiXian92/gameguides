@@ -19,7 +19,7 @@ Espers
 * [Titan](titan.md)
 
 Events
-* Dole Exploration Dungeon(coming soon)
+* [Dole Exploration Dungeon](dole.md)
 * [Mount Nibel Exploration Dungeon](mt-nibel.md)
 * [2nd Anniversary Event Hard Exploration Dungeon](2-anniv-hard.md)
 
