@@ -19,8 +19,10 @@ Espers
 * [Titan](titan.md)
 
 Events
+* Dole Exploration Dungeon(coming soon)
 * [Mount Nibel Exploration Dungeon](mt-nibel.md)
 * [2nd Anniversary Event Hard Exploration Dungeon](2-anniv-hard.md)
 
 Trials
+* [Erafikeras](erafikeras.md)
 * [Iron Giant](iron-giant.md)
